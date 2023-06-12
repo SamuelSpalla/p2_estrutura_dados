@@ -8,8 +8,8 @@ prefeitura.cadastrar_animal("canino", "filhote", "preto", "pequeno", "")
 prefeitura.cadastrar_animal("felino", "adulto", "laranja", "médio", "")
 prefeitura.cadastrar_animal("felino", "filhote", "branco", "pequeno", "cauda curta")
 
-prefeitura.cadastrar_pessoa("João", "joao@email.com", "canino", "porte", "pequeno")
-prefeitura.cadastrar_pessoa("Maria", "maria@email.com", "felino", "cor", "branco")
+prefeitura.cadastrar_pessoa("João", "joao@email.com", "canino")
+prefeitura.cadastrar_pessoa("Maria", "maria@email.com", "felino")
 
 #------------------------------------------------------------------------------------------------------------------------
 
