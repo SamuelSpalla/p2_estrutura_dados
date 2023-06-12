@@ -53,6 +53,10 @@ Para diminuir a chance de erros, criei uma função para a pessoa que estiver ut
 
 ![Screenshot_9](https://github.com/SamuelSpalla/p2_estrutura_dados/assets/118549226/6f27c04a-7173-4ddf-928d-8d022fafdaca)
 
+**Fluxograma**
+
+[_Fluxograma.pdf](https://github.com/SamuelSpalla/p2_estrutura_dados/files/11728923/_Fluxograma.pdf)
+
 
 **CONCLUSÃO**
 
