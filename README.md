@@ -6,6 +6,6 @@ Período: 3º
 
 Disciplina: Estrutura de Dados
 
-Professor: Márcio Alexandre Dias Garrido
+Professor: Márcio Alexandre Dias Garrido - GitHub: marciogarridoLaCop
 
 Participante: Samuel Spalla da Silva 
