@@ -57,6 +57,8 @@ Para diminuir a chance de erros, criei uma função para a pessoa que estiver ut
 
 [_Fluxograma.pdf](https://github.com/SamuelSpalla/p2_estrutura_dados/files/11728923/_Fluxograma.pdf)
 
+![Fluxograma](https://github.com/SamuelSpalla/p2_estrutura_dados/assets/118549226/8e3b3e09-db5f-4c1e-9500-7d447ec25aee)
+
 
 **CONCLUSÃO**
 
